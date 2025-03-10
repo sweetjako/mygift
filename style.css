@@ -26,11 +26,11 @@ nav ul li {
     margin: 0 1rem;
 }
 
-nav ul li a {
+/*nav ul li a {
     color: white;
     text-decoration: none;
 }
-
+*/
 section {
     padding: 3rem;
     text-align: center;
@@ -45,7 +45,7 @@ section {
 .gallery img {
     margin: 2rem;
     max-width: 200px;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 
 /*form {
