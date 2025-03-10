@@ -43,7 +43,7 @@ section {
 }
 
 .gallery img {
-    margin: 2rem;
+    margin: 10rem;
     max-width: 200px;
     border-radius: 50px;
 }
